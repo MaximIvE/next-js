@@ -2,7 +2,7 @@
 
 ---
 
-### Цей навчальний проект було прописано вручну по матеріалам відеокурсу на каналі webDev.
+### Цей навчальний проект було прописано вручну по матеріалам відеокурсу каналу webDev.
 
 ### Список уроків:
 
@@ -41,7 +41,7 @@
 - [JSON Viewer (удобная работа с JSON)](https://chrome.google.com/webstore/detail/json-viewer/gbmdgpbipfallnflgajpaliibnhdgobh?hl=ru)
 - [Vercel (бесплатный хостинг)](https://vercel.com)
 
-### Корисні курсиы:
+### Корисні курси:
 
 - [React & Redux](https://www.youtube.com/playlist?list=PLNkWIWHIRwME_Gv2vlWAR6TfeSXylYfw4)
 - [ES6](https://www.youtube.com/playlist?list=PLNkWIWHIRwMGLJXugVvdK7i8UagGQNaXD)
